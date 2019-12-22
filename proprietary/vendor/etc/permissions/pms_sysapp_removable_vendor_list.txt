@@ -1,0 +1,11 @@
+com.mediatek.vnet
+com.iflytek.inputmethod
+com.hugeland.cdsplus
+com.facebook.lite
+com.instagram.android
+com.facebook.orca
+com.whatsapp
+com.emoji.keyboard.touchpal
+com.hatsune.eagleee
+com.transsion.carlcare
+com.kikaoem.qisiemoji.inputmethod.cy.se
